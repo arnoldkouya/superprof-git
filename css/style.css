@@ -12,7 +12,6 @@ html,
 body {
   padding: 0;
   margin: 0;
-  background: #fff;
   letter-spacing: 1px;
   font-family: 'Mada', sans-serif;
 }
@@ -225,7 +224,7 @@ nav ul li {
 /* Styling the links */
 
 nav ul li a {
-  color: #fff;
+  color: #000;
   text-transform: capitalize;
   font-weight: 700;
   font-size: 16px;
@@ -304,7 +303,7 @@ nav ul ul li a {
 }
 
 
-/* Second, Third and more Tiers	
+/* Second, Third and more Tiers
 * We move the 2nd and 3rd etc tier dropdowns to the left
 * by the amount of the width of the first tier.
 */
@@ -413,7 +412,7 @@ a.reqe-button {
     padding: 15px 0;
     text-align: center;
     width: 100%;
-	z-index: 999;	
+	z-index: 999;
   }
   /* Change menu item's width to 100% */
   nav ul li {
@@ -439,7 +438,7 @@ a.reqe-button {
     color: #FFF;
     font-size: 15px;
   }
-  /* 
+  /*
 nav ul li ul li .toggle,
 nav ul ul a {
 background-color: #212121;
@@ -1540,7 +1539,7 @@ color:#fff;
     font-size: 23px !important;
   }
   .number-w3three-info h5 {
-    font-size: 22px !important; 
+    font-size: 22px !important;
   }
   .social-icons ul li a span {
     font-size: 18px !important;
